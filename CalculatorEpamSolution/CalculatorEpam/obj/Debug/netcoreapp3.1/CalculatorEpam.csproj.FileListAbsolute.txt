@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.exe
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.deps.json
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.runtimeconfig.json
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.runtimeconfig.dev.json
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.dll
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\bin\Debug\netcoreapp3.1\CalculatorEpam.pdb
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.AssemblyInfo.cs
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.dll
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.pdb
+C:\Users\acer\source\repos\CalculatorEpamSolution\CalculatorEpam\obj\Debug\netcoreapp3.1\CalculatorEpam.genruntimeconfig.cache
