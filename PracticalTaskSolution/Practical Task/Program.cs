@@ -17,7 +17,7 @@ namespace Practical_Task
             foreach (char c in ch)
             {
                 Console.WriteLine(c);
-                for (int i = 0; i >= countChar.Length; i++)
+                for (int i = 0; i <= countChar.Length; i++)
                 {
                     Console.WriteLine(countChar[i]);
                     if (c != countChar[i] )
